@@ -1,4 +1,4 @@
-# projectorion
+# project orion virtual assistant
 # code not yet published still in early stage
 Project Orion is a multi capabilities virtual assistant AI project that focuses to be as close as jarvis while its core are built upon a hybrid online and offline principle 
 
