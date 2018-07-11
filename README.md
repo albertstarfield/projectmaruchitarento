@@ -1,6 +1,6 @@
-# project orion virtual assistant
+# project マルチタレント virtual assistant
 # code not yet published still in early stage
-Project Orion or its full name are Orion Schwarzschild is a multi capabilities virtual assistant AI project that focuses to be as close as jarvis while its core are built upon a hybrid online and offline principle 
+Project マルチタレント is a multi capabilities virtual assistant AI project that focuses to be as close as jarvis while its core are built upon a hybrid online and offline principle 
 
 
 however his/her capabilities reflect on how powerfull is your computer is
@@ -15,6 +15,6 @@ however his/her capabilities reflect on how powerfull is your computer is
 # Usage
 To load the AI into your system make sure you have enough free ram
 
-bash start.sh
+bash bootloader.sh boot
 
 currently designed only for archlinux x86 however its possible to port it to arm based device or debian 
