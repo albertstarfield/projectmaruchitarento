@@ -14,6 +14,7 @@ however his/her capabilities reflect on how powerfull is your computer is
 
 # Usage
 To load the AI into your system make sure you have enough free ram
+
 bash start.sh
 
 currently designed only for linux
