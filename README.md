@@ -1,6 +1,6 @@
 # project orion virtual assistant
 # code not yet published still in early stage
-Project Orion is a multi capabilities virtual assistant AI project that focuses to be as close as jarvis while its core are built upon a hybrid online and offline principle 
+Project Orion or its full name are Orion Schwarzschild is a multi capabilities virtual assistant AI project that focuses to be as close as jarvis while its core are built upon a hybrid online and offline principle 
 
 
 however his/her capabilities reflect on how powerfull is your computer is
