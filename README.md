@@ -17,4 +17,4 @@ To load the AI into your system make sure you have enough free ram
 
 bash start.sh
 
-currently designed only for linux
+currently designed only for archlinux x86 however its possible to port it to arm based device or debian 
